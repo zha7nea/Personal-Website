@@ -19,6 +19,9 @@ body{
     width: 100%;
     height: auto;
 }
+.skills-section{
+    background-color: #d2bcb0;   
+}
 .testimonial{
     background-color: #c9a887;
     padding: 20px;

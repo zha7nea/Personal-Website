@@ -1,0 +1,37 @@
+body{
+    font-family:Arial, sans-serif;
+    background-color: #d0b29b;
+    color:#333;
+}
+.nabvar{
+    background-color: #f8f9fa;
+}
+.hero-section{
+    padding: 80px 0;
+    background-color: #d5c4b5;
+    text-align: center;
+}
+.skills-section, .projects-section, .contact-section{
+    padding:60px 0;
+}
+.skills-section img, .projects-section img{
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+}
+.testimonial{
+    background-color: #c9a887;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    color: white;
+}
+.contact-section{
+    background-color: #b58e72;
+    color: white;
+    padding: 4opx;
+}
+.contact-section a{
+    background-color:white;
+    color:#333;
+}
